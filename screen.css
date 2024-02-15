@@ -36,8 +36,19 @@ main {
     margin: 0;
 }
 .details ul li {
-    background: url('qrcode-solid.png') no-repeat center left;
     list-style-type: none;
     margin: 10px 0;
     padding: 0 0 0 40px;
+}
+.details ul li.wifi {
+    background: url('wifiVector.png') no-repeat center left;
+}
+.details ul li.cloud {
+    background: url('cloudVector.png') no-repeat center left;
+}
+.details ul li.qr {
+    background: url('QRVector.png') no-repeat center left;
+}
+.details ul li.media {
+    background: url('mediaVector.png') no-repeat center left;
 }
