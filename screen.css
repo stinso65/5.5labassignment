@@ -1,6 +1,31 @@
 /* Add screen styles below */
 @import url(https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap);
+.root {
+    --main-bg-color: #E9E9E9;
+    --primary-text-color: #424242;
+    --accent-color: #FF3D3C;
+}
 body {
-    background: #888888;
-    font-family: "Inter", sans-serif;
+    background: var(--main-bg-color);
+    color: var(--primary-text-color);
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    padding:20px;
+    margin-bottom: 100px;
+}
+header h1 {
+    margin: 0;
+    font-weight: normal;
+}
+main {
+    background: url('polaroid.png') no-repeat center 100px;
+    margin: 0 auto;
+    width: 1000px;
+}
+.Hero {
+    text-align: center;
+    min-height: 800px;
 }
