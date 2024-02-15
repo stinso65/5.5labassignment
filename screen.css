@@ -41,14 +41,14 @@ main {
     padding: 0 0 0 40px;
 }
 .details ul li.wifi {
-    background: url('wifiVector.png') no-repeat center left;
+    background: url('wifiVector0.5.png') no-repeat center left;
 }
 .details ul li.cloud {
-    background: url('cloudVector.png') no-repeat center left;
+    background: url('cloudVector0.5.png') no-repeat center left;
 }
 .details ul li.qr {
-    background: url('QRVector.png') no-repeat center left;
+    background: url('QRVector0.5.png') no-repeat center left;
 }
 .details ul li.media {
-    background: url('mediaVector.png') no-repeat center left;
+    background: url('mediaVector0.5.png') no-repeat center left;
 }
