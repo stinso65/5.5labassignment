@@ -35,6 +35,11 @@ main {
     text-transform: uppercase;
     margin: 0;
 }
+.details h3 {
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 900;
+}
 .details ul li {
     list-style-type: none;
     margin: 10px 0;
@@ -51,4 +56,13 @@ main {
 }
 .details ul li.media {
     background: url('mediaVector0.5.png') no-repeat center left;
+}
+.form h3 {
+    margin-top: 100px;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 900;
+}
+form {
+    margin-bottom: 300px;
 }
