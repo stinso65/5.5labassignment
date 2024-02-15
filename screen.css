@@ -66,4 +66,24 @@ main {
 }
 form {
     margin-bottom: 300px;
+    background-color: #E2E2E2;
+    width: 700px;
+    padding: 20px;
+    border-radius: 20px;
+    margin-left: 110px;
+}
+input[type=text] {
+    background-color: #ECECEC;
+    color: var(--primary-text-color);
+    border: none;
+    padding: 20px;
+    width: 400px;
+  }
+input[type=button] {
+    background: #FF3D3C;
+    border: none;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    padding: 20px;
+    font-weight: 900;
 }
