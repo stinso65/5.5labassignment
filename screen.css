@@ -19,50 +19,61 @@ header {
 header h1 {
     margin: 0;
     font-weight: normal;
+    color: #424242;
 }
 main {
     background: url('polaroid.png') no-repeat center 100px;
     margin: 0 auto;
     width: 1000px;
+    color: #424242;
 }
 .Hero {
     text-align: center;
     min-height: 800px;
+    color: #424242;
 }
 .Hero h2 {
     font-size: 9em;
     line-height: 1em;
     text-transform: uppercase;
     margin: 0;
+    color: #424242;
 }
 .details h3 {
     text-align: center;
     font-size: xx-large;
     font-weight: 900;
     padding-top: 50px;
+    color: #424242;
 }
 .details ul li {
     list-style-type: none;
     margin: 10px 0;
     padding: 0 0 0 40px;
+    color: #424242;
 }
 .details ul li.wifi {
     background: url('wifiVector0.5.png') no-repeat center left;
+    color: #424242;
 }
 .details ul li.cloud {
     background: url('cloudVector0.5.png') no-repeat center left;
+    color: #424242;
 }
 .details ul li.qr {
     background: url('QRVector0.5.png') no-repeat center left;
+    color: #424242;
 }
 .details ul li.media {
     background: url('mediaVector0.5.png') no-repeat center left;
+    color: #424242;
 }
 .form h3 {
     margin-top: 70px;
     text-align: center;
     font-size: xx-large;
     font-weight: 900;
+    color: #424242;
 }
 form {
     margin-bottom: 300px;
