@@ -46,6 +46,11 @@ main {
     padding-top: 50px;
     color: #424242;
 }
+p {
+    max-width: 900px;
+    text-align: left;
+    padding-left: 50px;
+}
 .details ul li {
     list-style-type: none;
     margin: 10px 0;
